@@ -1,0 +1,5 @@
+print("Triangel")
+print("   /|")
+print("  / |")
+print(" /  |")
+print("/___|")
